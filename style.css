@@ -1,0 +1,19 @@
+th {
+ background: rgb(220, 220, 220);
+ border: 1px solid black;	
+}
+
+td {
+ border: 1px solid black;	
+}
+
+table { 
+ text-align: center;
+ border: 2px solid rgb(70, 70, 70);
+ border-collapse: collapse;
+}
+
+#myChart{
+    max-width:500px;
+    max-height:250px;
+}
